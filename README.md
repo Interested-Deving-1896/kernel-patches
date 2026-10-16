@@ -67,6 +67,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@xz-dev](https://github.com/xz-dev) | 2 |
 | [@AdityaGarg8](https://github.com/AdityaGarg8) | 1 |
 | [@blackteahamburger](https://github.com/blackteahamburger) | 1 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 1 |
 | [@hotline1337](https://github.com/hotline1337) | 1 |
 <!-- AI:end:contributors -->
 
