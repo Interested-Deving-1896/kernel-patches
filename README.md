@@ -64,10 +64,10 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 | [@sm9cc](https://github.com/sm9cc) | 9 |
 | [@lonerOrz](https://github.com/lonerOrz) | 3 |
 | [@xeome](https://github.com/xeome) | 2 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 2 |
 | [@xz-dev](https://github.com/xz-dev) | 2 |
 | [@AdityaGarg8](https://github.com/AdityaGarg8) | 1 |
 | [@blackteahamburger](https://github.com/blackteahamburger) | 1 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 1 |
 | [@hotline1337](https://github.com/hotline1337) | 1 |
 <!-- AI:end:contributors -->
 
@@ -86,18 +86,15 @@ _No additional resource files found._
 ## Accessibility
 
 <!-- AI:start:accessibility -->
-This repo uses automated accessibility auditing via `check-accessibility.yml`.
-
-Checks include: CODEOWNERS ownership coverage, README screen-reader compatibility,
-WCAG 2.1 AA HTML compliance, audio overview (espeak-ng), and Braille output (liblouis).
-
+No  was found when this README was generated. Check the
+[Actions tab](https://github.com/Interested-Deving-1896/kernel-patches/actions) for repository-specific checks, and document an
+accessibility status only when a report or workflow provides evidence for it.
 
 
 
-Run the [Check Accessibility](https://github.com/Interested-Deving-1896/kernel-patches/actions/workflows/check-accessibility.yml)
-workflow to generate the first report and accessibility artifacts.
+
 See the [W3C Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
-for the underlying accessibility reference.
+for accessibility guidance.
 <!-- AI:end:accessibility -->
 
 ## License
